@@ -5,5 +5,5 @@ const addText = function () {
         alert('Вы победили в конкурсе!');
         clearInterval(inervalID);
     }
-}
+};
 const inervalID = setInterval(addText, 1000);
