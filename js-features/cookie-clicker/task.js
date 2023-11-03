@@ -8,4 +8,4 @@ cookie.onclick = function() {
     } else {
         cookie.width = 200;
     }
-}
+};
